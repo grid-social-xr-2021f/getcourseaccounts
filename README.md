@@ -22,7 +22,7 @@ For the course we're using Unity Version 2019.4.11f1 LtS distribution.
 
 - [ ] Unity Student Account
 - [ ] Install UnityHub
-- [ ] Add 2019.4.11f1 LTS distribtion
+- [ ] Add 2020.3.x LTS distribtion
 
 ## Vuforia Tasks 
 For the Extended Reality features and databse goto https://developer.vuforia.com/vui/auth/register
