@@ -18,18 +18,16 @@ The best option is to sign up for the Unity Student account: https://store.unity
 
 Between this and Google Classroom you can get access to the student pack which has a bunch of free extras.
 
-For the course we're using Unity Version 2019.4.11f1 LtS distribution.
+For the course we're using Unity Version 2020.3.x LTS distribution.
 
 - [ ] Unity Student Account
 - [ ] Install UnityHub
 - [ ] Add 2020.3.x LTS distribtion
 
-## Vuforia Tasks 
-For the Extended Reality features and databse goto https://developer.vuforia.com/vui/auth/register
+## AR Foundation  
 
-Register as a Vuforia Developer. This is a free process and we'll be only using the free developer license keys for this class.
+We'll be using AR Foundation for our extended reality demos. Introdcutions and tutorials on the way. These will be in the Google Classroom portion of the class.
 
-- [ ] Vuforia Account
-- [ ] Vuforia Developer License
-- [ ] Target Database
- 
+What is AR FOundation?
+* Unity Introduction: https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/manual/index.html
+* Unity Tutorial: https://learn.unity.com/tutorial/setting-up-ar-foundation
