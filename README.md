@@ -6,11 +6,8 @@ All the accounts need to get up and running with the class. Plus, the software. 
 
 You will need to go to https://github.com/join and create an account. Confirm via email. Then you will need to install Github Desktop https://desktop.github.com/. 
 
-This assignment has an invite to link your student netid. It's on the honor system so match up the appropriate parts.
-
 - [ ] Github Account
 - [ ] Github Deskstop
-- [ ] Link your netid with your Github account
 
 ## Unity Account and Software tasks
 
