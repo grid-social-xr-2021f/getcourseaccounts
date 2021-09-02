@@ -28,6 +28,13 @@ For the course we're using Unity Version 2020.3.x LTS distribution.
 
 We'll be using AR Foundation for our extended reality demos. Introdcutions and tutorials on the way. These will be in the Google Classroom portion of the class.
 
-What is AR FOundation?
+What is AR Foundation?
 * Unity Introduction: https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/manual/index.html
 * Unity Tutorial: https://learn.unity.com/tutorial/setting-up-ar-foundation
+
+## Edit and Place your account information here:
+
+Github account:
+
+Unity Account:
+
